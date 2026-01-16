@@ -1,0 +1,19 @@
+# MODX files (download separately)
+www/*
+!www/.gitkeep
+
+# Environment
+.env
+
+# Database
+mysql-data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
