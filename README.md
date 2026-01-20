@@ -12,7 +12,7 @@ Docker-окружение для MODX Revolution 3 с PHP 8.4, MySQL 8.0 и Ngin
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/modx3-docker.git
+git clone https://github.com/accusser/modx3-docker.git
 cd modx3-docker
 ```
 
